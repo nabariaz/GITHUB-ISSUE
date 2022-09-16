@@ -12,3 +12,4 @@ Used Swift 5.5
 
 Used XCode 13.0+ to implement it
 
+Made use of user default storage to save user settings
