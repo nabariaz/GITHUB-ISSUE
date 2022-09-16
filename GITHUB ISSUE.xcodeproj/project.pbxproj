@@ -22,6 +22,7 @@
 		C024680928CBA3750011E55F /* CustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C024680728CBA3750011E55F /* CustomCell.swift */; };
 		C024680A28CBA3750011E55F /* CustomCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = C024680828CBA3750011E55F /* CustomCell.xib */; };
 		C024681028CBD9790011E55F /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = C024680F28CBD9790011E55F /* Constant.swift */; };
+		C0E3395F28D4E75A0070BCA7 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0E3395E28D4E75A0070BCA7 /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,7 @@
 		C024680728CBA3750011E55F /* CustomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCell.swift; sourceTree = "<group>"; };
 		C024680828CBA3750011E55F /* CustomCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CustomCell.xib; sourceTree = "<group>"; };
 		C024680F28CBD9790011E55F /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
+		C0E3395E28D4E75A0070BCA7 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -194,6 +196,7 @@
 			isa = PBXGroup;
 			children = (
 				C02467D228CB9A810011E55F /* IssueViewController.swift */,
+				C0E3395E28D4E75A0070BCA7 /* LoginViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -349,6 +352,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C0E3395F28D4E75A0070BCA7 /* LoginViewController.swift in Sources */,
 				C02467D328CB9A810011E55F /* IssueViewController.swift in Sources */,
 				C02467CF28CB9A810011E55F /* AppDelegate.swift in Sources */,
 				C024681028CBD9790011E55F /* Constant.swift in Sources */,
